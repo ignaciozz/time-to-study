@@ -15,7 +15,10 @@ Conforme acumula XP, sobe de nível e acompanha seu progresso por meio de uma ba
 - Barra de progresso
 - Armazenamento dos dados no Local Storage
 
-## Tecnologias: HTML | CSS | JavaScript
+## Tecnologias: 
+
+HTML | CSS | JavaScript
 
 ## Objetivo do projeto: 
+
 Praticar manipulação do DOM, eventos, lógica de programação, armazenamento local e construção de interfaces interativas através de uma aplicação divertida e visualmente atraente.
