@@ -22,3 +22,7 @@ HTML | CSS | JavaScript
 ## Objetivo do projeto: 
 
 Praticar manipulação do DOM, eventos, lógica de programação, armazenamento local e construção de interfaces interativas através de uma aplicação divertida e visualmente atraente.
+
+## Obs:
+
+Projeto em atualização contínua...
